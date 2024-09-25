@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexBrodskii
+- 👋 Hi, I’m Alex Brodskii
 - 👀 I’m interested in business&systems analysis
 - 🌱 I’m currently learning REST,SOAP,GraphQL, gRPC
 - 💞️ I’m looking to collaborate on ...
